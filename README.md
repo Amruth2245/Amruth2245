@@ -1,4 +1,9 @@
-# Hi 👋, I'm Amruth Babu
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amruth2245/Amruth2245/main/github-banner.png.png" alt="GitHub Banner" width="100%">
+</p>
+
+
+# Hi 👋, I'm Amruth B
 
 ## 🚀 AI & Data Science Student
 
